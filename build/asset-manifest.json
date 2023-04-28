@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/charleyzuur/zuur-beauty-store-.git/static/css/main.2be16ca6.css",
+    "main.js": "/charleyzuur/zuur-beauty-store-.git/static/js/main.956d72b0.js",
+    "index.html": "/charleyzuur/zuur-beauty-store-.git/index.html",
+    "main.2be16ca6.css.map": "/charleyzuur/zuur-beauty-store-.git/static/css/main.2be16ca6.css.map",
+    "main.956d72b0.js.map": "/charleyzuur/zuur-beauty-store-.git/static/js/main.956d72b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2be16ca6.css",
+    "static/js/main.956d72b0.js"
+  ]
+}
